@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John (@laffchem)
-- 👀 I’m interested in all things gis, linux, coding, and chemistry.
-- 🌱 I’m currently learning geopandas, leafmap, and Esri Arcade.
+- 👀 I’m interested in all things coding, linux, gis, math and chemistry.
+- 🌱 I’m currently expanding knowledge in Node.js, Python, and QGIS.
 
 
 
